@@ -1,0 +1,36 @@
+.page.test {
+    background-color: #60a917;
+    padding: 2rem;
+    font-family: Helvetica, sans-serif;
+    min-height: 100vh;
+    color: white;
+    text-align: center;
+  }
+  
+  .question-block {
+    background-color: #a8e61d;
+    padding: 1rem;
+    margin-bottom: 1.2rem;
+    border-radius: 10px;
+    text-align: left;
+    width: 100%;
+    max-width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  
+  .question-block label {
+    display: block;
+    margin: 0.3rem 0;
+    cursor: pointer;
+  }
+  
+  .page.test button {
+    background: #f7d202;
+    border: none;
+    padding: 0.7rem 1.2rem;
+    border-radius: 10px;
+    margin-top: 1.5rem;
+    font-weight: bold;
+    cursor: pointer;
+  }

@@ -1,0 +1,29 @@
+.page.result {
+    background-color: #60a917;
+    padding: 2rem;
+    font-family: Helvetica, sans-serif;
+    min-height: 100vh;
+    text-align: center;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .page.result h2 {
+    font-size: 2rem;
+    margin-bottom: 1rem;
+    color: #ffd700;
+  }
+  
+  .page.result blockquote {
+    background: #a8e61d;
+    padding: 1rem;
+    border-radius: 12px;
+    margin-top: 1rem;
+    max-width: 400px;
+    color: white;
+    font-style: italic;
+  }
+  

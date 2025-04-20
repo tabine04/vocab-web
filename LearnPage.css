@@ -1,0 +1,49 @@
+.page.learn {
+    background-color: #60a917;
+    padding: 2rem;
+    font-family: Helvetica, sans-serif;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    text-align: center;
+  }
+  
+  .page.learn h2 {
+    color: #ffd700;
+    font-size: 1.8rem;
+    margin-bottom: 1.5rem;
+  }
+  
+  .words {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+    justify-content: center;
+  }
+  
+  .word {
+    background: #a8e61d;
+    border-radius: 12px;
+    padding: 1rem;
+    width: 200px;
+    text-align: left;
+    color: white;
+  }
+  
+  .actions {
+    display: flex;
+    gap: 1rem;
+    margin-top: 2rem;
+  }
+  
+  .actions button {
+    background: #f7d202;
+    border: none;
+    padding: 0.8rem 1.2rem;
+    font-weight: bold;
+    border-radius: 10px;
+    cursor: pointer;
+  }
+  
